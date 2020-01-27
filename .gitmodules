@@ -1,0 +1,3 @@
+[submodule "xOpera"]
+	path = xOpera
+	url = https://github.com/xlab-si/xopera-opera
