@@ -1,6 +1,3 @@
 [submodule "xOpera"]
 	path = xOpera
 	url = https://github.com/xlab-si/xopera-opera
-[submodule "alde"]
-	path = alde
-	url = https://github.com/TANGO-Project/alde
